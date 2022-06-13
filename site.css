@@ -1,0 +1,65 @@
+.wait {
+    cursor: wait;
+    width: 100px;
+    height: 25px;
+    border:3px solid darkgoldenrod;
+    border-radius: 5px;
+    color: black;
+    background-color: whitesmoke;
+}
+
+.pointer {
+    cursor: pointer;
+    width: 100px;
+    height: 25px;
+    border:3px solid bisque;
+    border-radius: 5px;
+    color: black;
+    background-color: whitesmoke;
+}
+
+.move {
+    cursor:move;
+    width: 100px;
+    height: 25px;
+    border:3px solid darkslategray;
+    border-radius: 5px;
+    color: black;
+    background-color: whitesmoke;
+}
+
+.help {
+    cursor:help;
+    width: 100px;
+    height: 25px;
+    border:3px solid darkolivegreen;
+    border-radius: 5px;
+    color: black;
+    background-color: whitesmoke;
+}
+
+.crosshair {
+    cursor:crosshair;
+    width: 100px;
+    height: 25px;
+    border:3px solid lightseagreen;
+    border-radius: 5px;
+    color: black;
+    background-color: whitesmoke;
+}
+
+#input {
+    width: 200px;
+    border:3px solid lightseagreen;
+    border-radius: 5px;
+    color: black;
+    background-color: whitesmoke;  
+    padding:5px;
+    margin:15px;
+}
+
+button {
+    padding:5px;
+    margin:10px;
+    height:30px !important;
+}
